@@ -1,0 +1,15 @@
+		H E L P 
+
+   ~~~~~~~~ Les Commandes Disponibles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ -h  Afficher le help détaillé à partir d’un fichier texte
+ -g  Afficher un menu textuel et gérer les fonctionnalités de façon graphique
+ -v  Afficher le nom des auteurs et la version du code
+ -j  Créer le fichier journal des fichiers supprimés
+ -c  Compresser un fichier
+ -s  Supprimer un fichier
+ -p  Parcourir des fichiers pour supprimer ou compresser
+ -l  Lister des fichiers de taille supérieur à 100ko
+ -m  Afficher un menu textuel (en boucle) qui permet d'accéder à chaque fonction
+ -e  Quitter
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
